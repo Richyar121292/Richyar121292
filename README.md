@@ -1,4 +1,7 @@
-## Bienvenido👋!
+
+## Hola, gusto en conocerte👋!
+
+![Image Alt](https://github.com/Richyar121292/Richyar121292/blob/27b1ca22aa384879545f60d3fcf04ce894196960/data%20science%20RAAR.PNG)
 
 📊 Soy un Analista de datos con un año de experiencia, especializado en Python 🐍, apasionado por la optimización de procesos analíticos y el desarrollo de modelos predictivos para mejorar la toma de decisiones.
 
@@ -21,8 +24,6 @@
 📊 Logré un Error Absoluto Medio (EAM) de 4.11, reduciendo la pérdida progresivamente en cada época de entrenamiento
 🚀 Optimización con GridSearchCV, asegurando eficiencia y estabilidad en la predicción
 
-
-![Image Alt](https://github.com/Richyar121292/Richyar121292/blob/f5328e980b9ef8fca76f4bf58cd6e55fda79650b/data%20science%20themed%20image%20without%20text.png)
 
 Donde encontrarme:
 [Linkedin](https://linkedin.com/in/ricardoalva121292)
