@@ -13,7 +13,7 @@
 🔹 Análisis de sentimiento en reseñas – NLP con precisión del 88%.
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV
 
-
+<br>
 🌐 **Conéctate conmigo**
 [Linkedin](https://linkedin.com/in/ricardoalva121292)
 
