@@ -14,6 +14,7 @@
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV
 
 <br>
+
 🌐 **Conéctate conmigo**
 [Linkedin](https://linkedin.com/in/ricardoalva121292)
 
