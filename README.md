@@ -2,6 +2,7 @@
 ## Gusto en conocerte👋!
 
 🧙 **Sobre mí**
+
 💡 Aficionado a la tecnología,🔍 Curioso por el mundo del análisis de datos/inteligencia artificial y 📊 Disfrutando mi transición profesional hacia Data Scientist! 🤓
 🚀 Buscando automatizar procesos y generar soluciones estratégicas basadas en datos.
 
@@ -21,6 +22,7 @@
 <br>
 
 📂 **Proyectos recientes**
+
 🔹 Predicción de cancelación de clientes – Modelo con AUC-ROC de 81%.
 🔹 Análisis de sentimiento en reseñas – NLP con precisión del 88%.
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV
