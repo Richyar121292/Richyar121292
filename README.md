@@ -20,4 +20,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/ricardoalva121292">LinkedIn</a>
 </p>
-
+<br>
+<h3 align="left">📧 Mándame un correo</h3>
+<p align="left">
+  <a href="mailto:richyar121292@gmail.com">richyar121292@gmail.com</a>
+</p>
