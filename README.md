@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/Richyar121292/Richyar121292/blob/27b1ca22aa384879545f60d3fcf04ce894196960/data%20science%20RAAR.PNG)
+![Image Alt](https://github.com/Richyar121292/Richyar121292/blob/819e41f70ca98e651215168241b232d26b7a585d/1.png)
 ## Hola, gusto en conocerte👋!
 
 🧙 **Sobre mí**
