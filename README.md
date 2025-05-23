@@ -18,6 +18,8 @@
 
 <br>
 
-🌐 **Conéctate conmigo**
+<h3 align="left"🌐 **Conéctate conmigo** </h3>
+<p align="left">
+
 [Linkedin](https://linkedin.com/in/ricardoalva121292)
 
