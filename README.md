@@ -13,13 +13,13 @@
 🔹 Análisis de sentimiento en reseñas – NLP con precisión del 88%.
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/Richyar121292/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 <br>
 
-<h3 align="left"🌐 **Conéctate conmigo** </h3>
+<h3 align="left">🌐 Conéctate conmigo</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/ricardoalva121292">LinkedIn</a>
+</p>
 
 [Linkedin](https://linkedin.com/in/ricardoalva121292)
 
