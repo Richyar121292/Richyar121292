@@ -8,7 +8,15 @@
 <br>
 
 🛠️ **Habilidades técnicas**
-🐍 Python  💾 SQL  📈 Machine Learning  📊 Visualización con Matplotlib & Seaborn
+🐍 Python  
+💾 SQL  
+📈 Machine Learning  
+📊 Visualización con Matplotlib & Seaborn
+
+🖥️ **Software y gestión**
+📑 Excel avanzado | 📂 Microsoft Office Suite
+🌍 Inglés (Avanzado) | 🇫🇷 Francés (Intermedio
+
 
 <br>
 
