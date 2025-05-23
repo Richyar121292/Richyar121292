@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/Richyar121292/Richyar121292/blob/819e41f70ca98e651215168241b232d26b7a585d/1.png)
+![Image Alt](https://github.com/Richyar121292/Richyar121292/blob/1b57d37f74ee8cd767af6a8ada46dc49ce81a0d6/DS3.JPG)
 ## Hola, gusto en conocerte👋!
 
 🧙 **Sobre mí**
