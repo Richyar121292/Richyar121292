@@ -18,15 +18,48 @@
 <p align="center">
 🐍 Python | 💾 SQL | 📈 Machine Learning | 📊 Visualización con Matplotlib & Seaborn  
 </p>
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge" alt="ML"/></td>
+    <td><img src="https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge" alt="Supervized ML"/></td>
+    <td><img src="https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge" alt="Unsupervized ML"/></td>
+    <td><img src="https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge" alt="Web Scraping"/></td>
+    <td><img src="https://img.shields.io/badge/Dashboards-red?style=for-the-badge" alt="Dashboards"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" alt="Data Science"/></td>
+    <td><img src="https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge" alt="Data Cleaning"/></td>
+    <td><img src="https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge" alt="Data Analysis"/></td>
+    <td><img src="https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge" alt="Data Visualization"/></td>
+    <td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt="More Skills"/></td>
+  </tr>
+</table>
 
 
 <h3 align="center">🖥️ Software y gestión</h3>
 <p align="center">
 📑 Excel | 📂 Microsoft Office Suite | 🌍 Inglés (Avanzado) | Francés (Intermedio)  
 </p>
+
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/></td>
+    <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/></td>
+    <td><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></td>
+    <td><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/></td>
+    <td><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda"/></td>
+    <td><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></td>
+    <td><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></td>
+    <td><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></td>
+    <td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt="More Tools"/></td>
+  </tr>
+</table>
+
 
 <br>
 
