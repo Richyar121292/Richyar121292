@@ -7,8 +7,7 @@
 <h3 align="center">🧙 Sobre mí</h3>
 <p align="center">  
 💡 Aficionado a la tecnología y el mundo del 🔍 análisis de datos e inteligencia artificial.  
-📊 Disfrutando mi transición profesional hacia Data Scientist! 🤓  
-🚀 Buscando automatizar procesos y generar soluciones estratégicas basadas en datos.
+🚀 Buscando automatizar procesos y generar soluciones estratégicas basadas en datos 🤓.
 
 </p>
 
