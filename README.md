@@ -31,10 +31,6 @@
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV
 
 <br>
-<h3 align="left">🌐 Conéctate conmigo</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ricardoalva121292">LinkedIn</a>
-</p>
 <h3 align="left">📧 Mándame un correo</h3>
 <p align="left">
   <a href="mailto:richyar121292@gmail.com">richyar121292@gmail.com</a>
@@ -43,5 +39,11 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/ricardoalva121292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div id="badges">
+  <a href="mailto:richyar121292@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
