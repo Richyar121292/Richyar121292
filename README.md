@@ -70,8 +70,8 @@
 <table>
   <tr>
 
-- **[Structure and Function of Argument: Introduction to Critical Thinking - Harvard Online](https://www.harvard.edu/)**
-- **[UPValenciaX: Trabajo en equipo en entornos presenciales, remotos e híbridos - Universidad Politécnica de Valencia](https://www.upv.es/)**
+- **[Structure and Function of Argument: Introduction to Critical Thinking - Harvard Online](https://www.harvard.edu/) (En curso)**
+- **[UPValenciaX: Trabajo en equipo en entornos presenciales, remotos e híbridos - Universidad Politécnica de Valencia](https://www.upv.es/) (En curso)**
 - **[Soft Skills: Develop Interpersonal Skills - IBM Online](https://www.ibm.com/skills/)**
 - **[Diplomado en Excel (Básico, Intermedio y Avanzado) - Quantec Capacitación](https://www.quantec.com.mx/)**
 - **[Contabilidad para no contadores II - Facultad de Contaduría y Administración, U.N.A.M, Cenapyme](https://www.unam.mx/)**
