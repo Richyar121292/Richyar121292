@@ -61,6 +61,26 @@
 </table>
 
 
+<Br>
+<hr>
+<Br>
+<h1 align="left">Certificaciones 🏆</h1>
+<Br>
+
+<table>
+  <tr>
+
+- **[Structure and Function of Argument: Introduction to Critical Thinking - Harvard Online](https://www.harvard.edu/)**
+- **[UPValenciaX: Trabajo en equipo en entornos presenciales, remotos e híbridos - Universidad Politécnica de Valencia](https://www.upv.es/)**
+- **[Soft Skills: Develop Interpersonal Skills - IBM Online](https://www.ibm.com/skills/)**
+- **[Diplomado en Excel (Básico, Intermedio y Avanzado) - Quantec Capacitación](https://www.quantec.com.mx/)**
+- **[Contabilidad para no contadores II - Facultad de Contaduría y Administración, U.N.A.M, Cenapyme](https://www.unam.mx/)**
+- **[Macros VBA con Excel - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)**
+- **[Excel 2016 (Básico, Intermedio y Avanzado) - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)**
+- **Inglés (Avanzado)**
+- **Francés (Intermedio)**
+
+
 <br>
 
 <h3 align="center">📂 Proyectos recientes</h3>
