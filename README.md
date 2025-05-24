@@ -21,7 +21,7 @@
 
 <h3 align="center">🖥️ Software y gestión</h3>
 <p align="center">
-📑 Excel | 📂 Microsoft Office Suite | 🌍 Inglés (Avanzado) | 🇫🇷 Francés (Intermedio)  
+📑 Excel | 📂 Microsoft Office Suite | 🌍 Inglés (Avanzado) | Francés (Intermedio)  
 </p>
 
 <br>
@@ -29,6 +29,7 @@
 <h3 align="center">📂 Proyectos recientes</h3>
 <p align="center"></p>
 🔹 Predicción de cancelación de clientes – Modelo con AUC-ROC de 81%  
+ 
 🔹 Análisis de sentimiento en reseñas – NLP con precisión del 88%  
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV    
 
