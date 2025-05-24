@@ -13,7 +13,7 @@
 </p>
 
 
-
+<br>
 <h3 align="center">🛠️ Habilidades técnicas</h3>
 <p align="center">
 🐍 Python | 💾 SQL | 📈 Machine Learning | 📊 Visualización con Matplotlib & Seaborn  
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-
+<br>
 <h3 align="center">🖥️ Software y gestión</h3>
 <p align="center">
 📑 Excel | 📂 Microsoft Office Suite | 🌍 Inglés (Avanzado) | Francés (Intermedio)  
@@ -64,7 +64,7 @@
 <Br>
 <hr>
 <Br>
-<h1 align="left">Certificaciones 🏆</h1>
+<h2 align="left">Certificaciones 🏆</h2>
 <Br>
 
 <table>
