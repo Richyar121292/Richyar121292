@@ -39,7 +39,7 @@
 <br>
 <h3 align="center">🖥️ Software y gestión</h3>
 <p align="center">
-📑 Excel | 📂 Microsoft Office Suite | 🌍 Inglés (Avanzado) | Francés (Intermedio)  
+📑 Excel | 📂 Microsoft Office Suite
 </p>
 
 
