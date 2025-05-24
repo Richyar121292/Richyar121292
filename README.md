@@ -2,7 +2,7 @@
 ## Gusto en conocerte👋!
 
 🧙 **Sobre mí**  
-💡 Aficionado a la tecnología y el mundo del 🔍 análisis de datos/inteligencia artificial.  
+💡 Aficionado a la tecnología y el mundo del 🔍 análisis de datos e inteligencia artificial.  
 📊 Disfrutando mi transición profesional hacia Data Scientist! 🤓  
 🚀 Buscando automatizar procesos y generar soluciones estratégicas basadas en datos.
 
@@ -17,8 +17,7 @@
 
 🖥️ **Software y gestión**  
 📑 Excel | 📂 Microsoft Office Suite  
-🌍 Inglés (Avanzado)
-:fr: Francés (Intermedio
+🌍 Inglés (Avanzado) | Francés (Intermedio)
 
 <br>
 
@@ -29,7 +28,6 @@
 
 
 <br>
-
 <h3 align="left">🌐 Conéctate conmigo</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ricardoalva121292">LinkedIn</a>
