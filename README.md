@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">👋 ¡Gusto en conocerte!</h3>
+<br>
 
 <h3 align="center">🧙 Sobre mí</h3>
 <p align="center">  
@@ -11,7 +12,7 @@
 
 </p>
 
-<br>
+
 
 <h3 align="center">🛠️ Habilidades técnicas</h3>
 <p align="center">
@@ -27,7 +28,7 @@
 
 <h3 align="center">📂 Proyectos recientes</h3>
 <p align="center"></p>
-🔹 Predicción de cancelación de clientes – Modelo con AUC-ROC de 81%  
+🔹 Predicción de cancelación de clientes – Modelo con AUC-ROC de 81%    
  
 🔹 Análisis de sentimiento en reseñas – NLP con precisión del 88%  
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV    
@@ -36,7 +37,7 @@
 <br>
 
 <h3 align="left">📧 Contáctame</h3>
-<p align="left">
+<p style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/ricardoalva121292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
