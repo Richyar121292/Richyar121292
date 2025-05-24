@@ -31,9 +31,8 @@
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV
 
 <br>
-<h3 align="left">📧 Mándame un correo</h3>
+<h3 align="left">📧 Contáctame</h3>
 <p align="left">
-  <a href="mailto:richyar121292@gmail.com">richyar121292@gmail.com</a>
 </p>
 
 <div id="badges">
