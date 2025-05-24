@@ -41,6 +41,7 @@
 </p>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"
-  <a href="mailto:richyar121292@gmail.com"></a>
+  <a href="https://www.linkedin.com/ricardoalva121292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
