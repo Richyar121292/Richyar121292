@@ -16,7 +16,7 @@
 <br>
 <h3 align="center">🛠️ Habilidades técnicas</h3>
 <p align="center">
-🐍 Python | 💾 SQL | 📈 Machine Learning | 📊 Visualización con Matplotlib & Seaborn  
+💾 SQL | 📊 Visualización con Matplotlib & Seaborn  
 </p>
 
 <table>
