@@ -12,7 +12,7 @@
 </p>
 
 <br>
-<h3 align="center">🛠️ Habilidades técnicas y analíticas</h3>
+<h3 align="center">🛠️ Habilidades </h3>
 <p align="center">
 🌐 Adaptabilidad | 🔍 Pensamiento crítico | 📊 Visualización de datos | 🗣️ Storytelling con datos | <br> 💬 Comunicación efectiva
 </p>
@@ -68,15 +68,17 @@
 <table>
   <tr>
 
-- **[UPValenciaX: Trabajo en equipo en entornos presenciales, remotos e híbridos - Universidad Politécnica de Valencia](https://www.upv.es/) (En curso)**
-- **[Structure and Function of Argument: Introduction to Critical Thinking - Harvard Online](https://www.harvard.edu/)**
-- **[Soft Skills: Develop Interpersonal Skills - IBM Online](https://www.ibm.com/skills/)**
-- **[Diplomado en Excel (Básico, Intermedio y Avanzado) - Quantec Capacitación](https://www.quantec.com.mx/)**
-- **[Contabilidad para no contadores II - Facultad de Contaduría y Administración, U.N.A.M, Cenapyme](https://www.unam.mx/)**
-- **[Macros VBA con Excel - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)**
-- **[Excel 2016 (Básico, Intermedio y Avanzado) - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)**
-- **Inglés (Avanzado)**
-- **Francés (Intermedio)**
+- **[UPValenciaX: Trabajo en equipo en entornos presenciales, remotos e híbridos - Universidad Politécnica de Valencia](https://www.upv.es/) (En curso)** 🎓
+- **[Structure and Function of Argument: Introduction to Critical Thinking - Harvard Online](https://www.harvard.edu/)** ✅
+- **[Soft Skills: Develop Interpersonal Skills - IBM Online](https://www.ibm.com/skills/)** ✅
+- **[Diplomado en Excel (Básico, Intermedio y Avanzado) - Quantec Capacitación](https://www.quantec.com.mx/)** ✅
+- **[Contabilidad para no contadores II - Facultad de Contaduría y Administración, U.N.A.M, Cenapyme](https://www.unam.mx/)** ✅
+- **[Macros VBA con Excel - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)** ✅
+- **[Excel 2016 (Básico, Intermedio y Avanzado) - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)** ✅
+- **Inglés (Avanzado)** 💼
+
+- **Francés (Intermedio)** 📚
+
 
 
 <hr>
