@@ -113,12 +113,10 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 
 📂 [Repositorio completo aquí](https://github.com/Richyar121292/Prediccion-cancelacion-servicio)
 
+<br>  
 
 
- 
-<br>
-
-- 💬 **Análisis de sentimiento en reseñas** – NLP con precisión del 88%  
+- 💬 **Análisis de sentimiento en reseñas y categorización** – NLP con precisión del 88%  
 
 **"Detrás de cada palabra hay una emoción. Saber interpretarla marca la diferencia entre ver datos… y comprender al usuario".**
 <br>
@@ -128,7 +126,7 @@ La meta era construir una solución precisa y escalable que permitiera **entende
 Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, este modelo demuestra cómo el **análisis semántico puede potenciar la toma de decisiones basada en la voz del usuario**.  
 
 🔍 **¿Por qué este proyecto?**  
-Comprender cómo perciben los usuarios un producto o servicio es clave para **mejorar su experiencia**. Sin embargo, analizar manualmente cientos o miles de reseñas no es sostenible. Este proyecto explora cómo **automatizar esa interpretación emocional con modelos supervisados** mejorando la capacidad de reacción de las organizaciones ante la retroalimentación.  
+**Comprender cómo perciben los usuarios un producto o servicio** es clave para **mejorar su experiencia**. Sin embargo, analizar manualmente cientos o miles de reseñas no es sostenible. Este proyecto explora cómo **automatizar esa interpretación emocional con modelos supervisados** mejorando la capacidad de reacción de las organizaciones ante la retroalimentación.  
 
 ⚙️ **Tecnologías Utilizadas**  
 - Lenguaje: Python
