@@ -116,7 +116,40 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 
 
  
-🔹 Análisis de sentimiento en reseñas – NLP con precisión del 88%  
+<br>
+
+- 💬 **Análisis de sentimiento en reseñas** – NLP con precisión del 88%  
+
+**"Detrás de cada palabra hay una emoción. Saber interpretarla marca la diferencia entre ver datos… y comprender al usuario".**
+<br>
+
+🧠 **Sobre el Proyecto**  
+La meta era construir una solución precisa y escalable que permitiera **entender el tono emocional de miles de opiniones** escritas.
+Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, este modelo demuestra cómo el **análisis semántico puede potenciar la toma de decisiones basada en la voz del usuario**.  
+
+🔍 **¿Por qué este proyecto?**  
+Comprender cómo perciben los usuarios un producto o servicio es clave para **mejorar su experiencia**. Sin embargo, analizar manualmente cientos o miles de reseñas no es sostenible. Este proyecto explora cómo **automatizar esa interpretación emocional con modelos supervisados** mejorando la capacidad de reacción de las organizaciones ante la retroalimentación.  
+
+⚙️ **Tecnologías Utilizadas**  
+- Lenguaje: Python
+- Bibliotecas: NLTK, Scikit-learn, Pandas
+- Técnicas: Limpieza de texto, tokenización, vectorización (TF-IDF), validación cruzada
+- Evaluación: Precisión, F1-score, Matriz de Confusión  
+
+📈 **Resultados clave**  
+- Precisión del modelo: 88%
+- F1-score superior a 0.85
+- Alta capacidad para detectar reseñas negativas con estabilidad  
+
+📂 [Repositorio completo aquí](https://github.com/Richyar121292/Categorizacion-de-opiniones)
+
+
+
+
+
+
+
+
 🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV    
 
 
