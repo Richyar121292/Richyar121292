@@ -118,7 +118,7 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 
 - 💬 **Análisis de sentimiento en reseñas y categorización** – NLP con precisión del 88%  
 
-**"Detrás de cada palabra hay una emoción. Saber interpretarla marca la diferencia entre ver datos… y comprender al usuario".**
+**"Detrás de cada palabra hay una emoción. Saber interpretarla marca la diferencia entre ver datos y comprender al usuario".**
 <br>
 
 🧠 **Sobre el Proyecto**  
