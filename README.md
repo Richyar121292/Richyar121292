@@ -89,10 +89,10 @@
 📊  **Predicción de cancelación de clientes** – Modelo con AUC-ROC de 81%   
 
 **"Conocer a tu cliente no siempre es suficiente. Anticipar sus decisiones puede marcar la diferencia entre retenerlo o perderlo".**  
-
+<br>
 
 🧠 **Sobre el Proyecto**    
-Me propuse construir un modelo de aprendizaje automático capaz de predecir la cancelación de clientes en un contexto de múltiples variables y fuentes de datos. La iniciativa surgió de un escenario común en entornos comerciales: la necesidad urgente de reducir la cancelación antes de que suceda.  
+Me propuse construir un modelo de aprendizaje automático capaz de predecir la cancelación de clientes en un contexto de múltiples variables y fuentes de datos. La iniciativa surgió de un escenario común en entornos comerciales: la **necesidad urgente de reducir la cancelación antes de que suceda**.  
 Gracias a un enfoque metódico, desde el análisis exploratorio hasta la selección óptima de modelos, logré desarrollar una solución capaz de detectar patrones de abandono con métricas de desempeño sólidas.  
 
 🔍 **¿Por qué este proyecto?**  
@@ -103,7 +103,7 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 - Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Modelos: Random Forest, XGBoost, Regresión Logística
 - Evaluación: AUC-ROC, Matriz de Confusión, F1-score  
- 
+
 
 📈 **Resultados clave**    
 - AUC-ROC promedio: 81%
@@ -111,7 +111,7 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 - Recall: 74%
 - F1-score: 75%
 
-📂 Repositorio completo aquí  
+📂 [Repositorio completo aquí](https://github.com/Richyar121292/Prediccion-cancelacion-servicio)
 
 
 
