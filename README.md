@@ -90,7 +90,7 @@
 <p align="center"><em>"Conocer a tu cliente no siempre es suficiente. Anticipar sus decisiones puede marcar la diferencia entre retenerlo o perderlo".</em></p>
 
 
-🧠 **Sobre el Proyecto**    
+📉 **Sobre el Proyecto**    
 Me propuse construir un modelo de aprendizaje automático capaz de predecir la cancelación de clientes en un contexto de múltiples variables y fuentes de datos debido a la **necesidad urgente de reducir la cancelación antes de que suceda**.  
 Gracias a un enfoque metódico, desde el análisis exploratorio hasta la selección óptima de modelos, logré desarrollar una solución capaz de detectar patrones de abandono con métricas de desempeño sólidas.  
 
@@ -103,12 +103,13 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 - Modelos: Random Forest, XGBoost, Regresión Logística
 - Evaluación: AUC-ROC, Matriz de Confusión, F1-score  
 
-
 📈 **Resultados clave**    
 - AUC-ROC promedio: 81%
 - Precisión: 76%
 - Recall: 74%
 - F1-score: 75%  
+
+<br>
 
 🧩 **Reflexiones Finales**  
 Este proyecto me permitió aplicar técnicas de **Machine Learning en un caso de negocio concreto** y me reafirmó el valor estratégico de los datos cuando se traducen en **decisiones accionables**. Comprendí cómo pequeñas variaciones en las métricas pueden tener un gran impacto cuando se trata de **anticipar la pérdida de clientes**, y cómo la calidad del análisis exploratorio y del diseño de características influyen directamente en la precisión del modelo.  
@@ -127,7 +128,7 @@ En resumen, esta experiencia consolidó mi capacidad para **conectar técnica co
 <p align="center"><em> "Detrás de cada palabra hay una emoción. Saber interpretarla marca la diferencia entre ver datos y comprender al usuario".</em></p>
 <br>
 
-🧠 **Sobre el Proyecto**  
+🧮  **Sobre el Proyecto**  
 La meta era construir una solución precisa y escalable que permitiera **entender el tono emocional de miles de opiniones** escritas.
 Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, este modelo demuestra cómo el **análisis semántico puede potenciar la toma de decisiones** basada en la voz del usuario.  
 
@@ -145,6 +146,7 @@ Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, es
 - F1-score superior a 0.85
 - Alta capacidad para detectar reseñas negativas con estabilidad  
 
+<br>
 
 🧩 **Reflexiones Finales**  
 Más allá del rendimiento del modelo, este proyecto me ayudó a consolidar habilidades esenciales en **procesamiento de texto, evaluación de modelos supervisados y storytelling con datos**.  
@@ -164,7 +166,7 @@ También me reafirmó que **comprender cómo los usuarios se expresan puede ser 
 <br>
 
 🧠 **Sobre el Proyecto**  
-Este proyecto busca de **predecir la edad aproximada** de una persona **a partir de una imagen** facial, utilizando redes neuronales convolucionales como **ResNet50**.   
+Este proyecto busca **predecir la edad aproximada** de una persona **a partir de una imagen** facial, utilizando redes neuronales convolucionales como **ResNet50**.   
 La arquitectura fue ajustada con **GridSearchCV para maximizar su precisión y estabilidad** durante el entrenamiento.  
 Desde la selección del modelo base hasta la reducción del error a lo largo de múltiples épocas, esta solución demuestra el **potencial de la visión artificial aplicada a problemas reales** de estimación.  
 
@@ -182,6 +184,8 @@ La estimación de edad tiene **aplicaciones relevantes en publicidad, control de
 - Error Absoluto Medio (MAE): 4.11
 - Reducción progresiva de pérdida por época
 - Modelo estable y generalizable ante distintas imágenes de entrada  
+
+<br>
 
 🧩 **Reflexiones Finales**  
 Este proyecto consolidó mis habilidades en **redes neuronales profundas, gestión de pipelines de entrenamiento y evaluación de modelos en visión por computadora**. Aprendí a ajustar hiperparámetros con precisión y a **convertir imágenes en predicciones confiables con impacto práctico**.  
