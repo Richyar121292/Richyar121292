@@ -6,17 +6,15 @@
 <br>
 
 <h3 align="center">🧙 Sobre mí</h3>
-<p align="center">  
-💡 Aficionado a la tecnología y el mundo del 🔍 análisis de datos e inteligencia artificial.  
-🚀 Buscando automatizar procesos y generar soluciones estratégicas basadas en datos 🤓.
-
+<p align="center">
+💡 Curioso por naturaleza | 🧙 Aprendiz constante | <br> 🖥️ Apasionado por la tecnología, análisis de datos 🔍 e inteligencia artificial 🧠 | <br>
+🚀 Fanático de automatizar procesos y diseñar soluciones estratégicas basadas en datos 🤓
 </p>
 
-
 <br>
-<h3 align="center">🛠️ Habilidades técnicas</h3>
+<h3 align="center">🛠️ Habilidades técnicas y analíticas</h3>
 <p align="center">
-💾 SQL | 📊 Visualización con Matplotlib & Seaborn  
+🌐 Adaptabilidad | 🔍 Pensamiento crítico | 📊 Visualización de datos | 🗣️ Storytelling con datos | <br> 💬 Comunicación efectiva
 </p>
 
 <table>
@@ -39,7 +37,7 @@
 <br>
 <h3 align="center">🖥️ Software y gestión</h3>
 <p align="center">
-📑 Excel | 📂 Microsoft Office Suite
+💾 SQL | 📑 Excel | 📊 Seaborn & Matplotlib | 🧠 NLP & NLTK | 📈 Power BI
 </p>
 
 
@@ -81,22 +79,21 @@
 - **Francés (Intermedio)**
 
 
+<hr>
 <br>
+<h2 align="left"> Proyectos recientes 📂</h2> 
 
-<h3 align="center">📂 Proyectos recientes</h3>
-<p align="center"></p>  
+1. 📊  **Predicción de cancelación de clientes** – Modelo con AUC-ROC de 81%   
 
-- 📊  **Predicción de cancelación de clientes** – Modelo con AUC-ROC de 81%   
+<p align="center"><em>"Conocer a tu cliente no siempre es suficiente. Anticipar sus decisiones puede marcar la diferencia entre retenerlo o perderlo".</em></p>
 
-**"Conocer a tu cliente no siempre es suficiente. Anticipar sus decisiones puede marcar la diferencia entre retenerlo o perderlo".**  
-<br>
 
 🧠 **Sobre el Proyecto**    
-Me propuse construir un modelo de aprendizaje automático capaz de predecir la cancelación de clientes en un contexto de múltiples variables y fuentes de datos. La iniciativa surgió de un escenario común en entornos comerciales: la **necesidad urgente de reducir la cancelación antes de que suceda**.  
+Me propuse construir un modelo de aprendizaje automático capaz de predecir la cancelación de clientes en un contexto de múltiples variables y fuentes de datos debido a la **necesidad urgente de reducir la cancelación antes de que suceda**.  
 Gracias a un enfoque metódico, desde el análisis exploratorio hasta la selección óptima de modelos, logré desarrollar una solución capaz de detectar patrones de abandono con métricas de desempeño sólidas.  
 
 🔍 **¿Por qué este proyecto?**  
-La pérdida de clientes afecta directamente la salud financiera de una organización. Pero si es posible predecir qué clientes podría cancelar su servicio, se pueden generar acciones preventivas personalizadas. Este proyecto explora precisamente eso: **transformar datos históricos en decisiones estratégicas de retención.**  
+La pérdida de clientes afecta directamente la salud financiera de una organización. Pero, si es posible predecir qué clientes podría cancelar su servicio, se pueden generar acciones preventivas personalizadas. Este proyecto explora precisamente eso: **transformar datos históricos en decisiones estratégicas de retención.**  
 
 ⚙️ **Tecnologías Utilizadas** 
 - Lenguaje: Python
@@ -111,26 +108,26 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 - Recall: 74%
 - F1-score: 75%  
 
-
 🧩 **Reflexiones Finales**  
 Este proyecto me permitió aplicar técnicas de **Machine Learning en un caso de negocio concreto** y me reafirmó el valor estratégico de los datos cuando se traducen en **decisiones accionables**. Comprendí cómo pequeñas variaciones en las métricas pueden tener un gran impacto cuando se trata de **anticipar la pérdida de clientes**, y cómo la calidad del análisis exploratorio y del diseño de características influyen directamente en la precisión del modelo.  
 También me permitió comprender la **interpretabilidad del modelo y su rendimiento en un contexto real**.   
-En resumen, esta experiencia consolidó mi capacidad para **conectar técnica y negocio y hacer predicciones de insights clave traducidas en recomendaciones útiles al negocio**.
+En resumen, esta experiencia consolidó mi capacidad para **conectar técnica con negocio y hacer predicciones clave traducidas en recomendaciones útiles** al negocio.
 
 
 📂 [Repositorio completo aquí](https://github.com/Richyar121292/Prediccion-cancelacion-servicio)
 
+<hr>
 <br>  
 
 
-- 💬 **Análisis de sentimiento en reseñas y categorización** – NLP con precisión del 88%  
+2. 💬 **Análisis de sentimiento en reseñas y categorización** – NLP con precisión del 88%  
 
-**"Detrás de cada palabra hay una emoción. Saber interpretarla marca la diferencia entre ver datos y comprender al usuario".**
+<p align="center"><em> "Detrás de cada palabra hay una emoción. Saber interpretarla marca la diferencia entre ver datos y comprender al usuario".</em></p>
 <br>
 
 🧠 **Sobre el Proyecto**  
 La meta era construir una solución precisa y escalable que permitiera **entender el tono emocional de miles de opiniones** escritas.
-Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, este modelo demuestra cómo el **análisis semántico puede potenciar la toma de decisiones basada en la voz del usuario**.  
+Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, este modelo demuestra cómo el **análisis semántico puede potenciar la toma de decisiones** basada en la voz del usuario.  
 
 🔍 **¿Por qué este proyecto?**  
 **Comprender cómo perciben los usuarios un producto o servicio** es clave para **mejorar su experiencia**. Sin embargo, analizar manualmente cientos o miles de reseñas no es sostenible. Este proyecto explora cómo **automatizar esa interpretación emocional con modelos supervisados** mejorando la capacidad de reacción de las organizaciones ante la retroalimentación.  
@@ -148,25 +145,26 @@ Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, es
 
 
 🧩 **Reflexiones Finales**  
-Más allá del rendimiento del modelo, este proyecto consolidó habilidades esenciales en **procesamiento de texto, evaluación de modelos supervisados y storytelling con datos**.  
-También reafirmó que **comprender cómo los usuarios se expresan puede ser más valioso que cualquier métrica numérica aislada**.  
+Más allá del rendimiento del modelo, este proyecto me ayudó a consolidar habilidades esenciales en **procesamiento de texto, evaluación de modelos supervisados y storytelling con datos**.  
+También me reafirmó que **comprender cómo los usuarios se expresan puede ser más valioso que cualquier métrica numérica aislada**.  
 
 
 📂 [Repositorio completo aquí](https://github.com/Richyar121292/Categorizacion-de-opiniones)
 
-
+<hr>
 <br>
 
-- 🧠 **Estimación de edad con redes neuronales** – Optimización con GridSearchCV  
+3. 🧠 **Estimación de edad con redes neuronales** – Optimización con GridSearchCV  
 
-**"A veces, una imagen dice más que mil palabras, incluso cuando la edad no se menciona."**
+<p align="center"><em>
+"A veces, una imagen dice más que mil palabras, incluso cuando la edad no se menciona."</em></p>
 
 <br>
 
 🧠 **Sobre el Proyecto**  
-Este proyecto busca de **predecir la edad aproximada de una persona a partir de una imagen** facial, utilizando redes neuronales convolucionales como **ResNet50**.   
+Este proyecto busca de **predecir la edad aproximada** de una persona **a partir de una imagen** facial, utilizando redes neuronales convolucionales como **ResNet50**.   
 La arquitectura fue ajustada con **GridSearchCV para maximizar su precisión y estabilidad** durante el entrenamiento.  
-Desde la selección del modelo base hasta la **reducción del error a lo largo de múltiples épocas**, esta solución demuestra el **potencial de la visión artificial** aplicada a problemas reales de estimación.  
+Desde la selección del modelo base hasta la reducción del error a lo largo de múltiples épocas, esta solución demuestra el **potencial de la visión artificial aplicada a problemas reales** de estimación.  
 
 🔍 **¿Por qué este proyecto?**  
 La estimación de edad tiene **aplicaciones relevantes en publicidad, control de acceso, personalización de contenido y más**. Este proyecto explora cómo extraer información significativa desde patrones visuales complejos y cómo optimizar un modelo profundo para lograr resultados sólidos con datos no estructurados.  
@@ -183,8 +181,8 @@ La estimación de edad tiene **aplicaciones relevantes en publicidad, control de
 - Reducción progresiva de pérdida por época
 - Modelo estable y generalizable ante distintas imágenes de entrada  
 
-🧩 **Reflexiones Finales** 
-Este proyecto consolidó mis habilidades en **redes neuronales profundas, gestión de pipelines de entrenamiento y evaluación de modelos en visión por computadora**. Aprendí a **ajustar hiperparámetros** con precisión y a **convertir imágenes en predicciones confiables con impacto práctico**.  
+🧩 **Reflexiones Finales**  
+Este proyecto consolidó mis habilidades en **redes neuronales profundas, gestión de pipelines de entrenamiento y evaluación de modelos en visión por computadora**. Aprendí a ajustar hiperparámetros con precisión y a **convertir imágenes en predicciones confiables con impacto práctico**.  
 
 
 📂 [Repositorio completo aquí](https://github.com/Richyar121292/Estimacion-de-edad-con-redes-neuronales)
@@ -193,7 +191,8 @@ Este proyecto consolidó mis habilidades en **redes neuronales profundas, gesti�
 
 <br>
 
-<h3 align="left">📧 Contáctame</h3>
+<h3 align="left">📧 Contáctame ✨
+</h3>
 <p style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/ricardoalva121292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
