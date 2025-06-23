@@ -109,7 +109,14 @@ La pérdida de clientes afecta directamente la salud financiera de una organizac
 - AUC-ROC promedio: 81%
 - Precisión: 76%
 - Recall: 74%
-- F1-score: 75%
+- F1-score: 75%  
+
+
+🧩 **Reflexiones Finales**  
+Este proyecto me permitió aplicar técnicas de **Machine Learning en un caso de negocio concreto** y me reafirmó el valor estratégico de los datos cuando se traducen en **decisiones accionables**. Comprendí cómo pequeñas variaciones en las métricas pueden tener un gran impacto cuando se trata de **anticipar la pérdida de clientes**, y cómo la calidad del análisis exploratorio y del diseño de características influyen directamente en la precisión del modelo.  
+También me permitió comprender la **interpretabilidad del modelo y su rendimiento en un contexto real**.   
+En resumen, esta experiencia consolidó mi capacidad para **conectar técnica y negocio y hacer predicciones de insights clave traducidas en recomendaciones útiles al negocio**.
+
 
 📂 [Repositorio completo aquí](https://github.com/Richyar121292/Prediccion-cancelacion-servicio)
 
@@ -141,20 +148,47 @@ Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, es
 
 
 🧩 **Reflexiones Finales**  
-Más allá del rendimiento del modelo, este proyecto consolidó habilidades esenciales en procesamiento de texto, evaluación de modelos supervisados y storytelling con datos.  
-También reafirmó que comprender cómo los usuarios se expresan puede ser más valioso que cualquier métrica numérica aislada.
+Más allá del rendimiento del modelo, este proyecto consolidó habilidades esenciales en **procesamiento de texto, evaluación de modelos supervisados y storytelling con datos**.  
+También reafirmó que **comprender cómo los usuarios se expresan puede ser más valioso que cualquier métrica numérica aislada**.  
 
 
 📂 [Repositorio completo aquí](https://github.com/Richyar121292/Categorizacion-de-opiniones)
 
 
+<br>
+
+- 🧠 **Estimación de edad con redes neuronales** – Optimización con GridSearchCV  
+
+**"A veces, una imagen dice más que mil palabras, incluso cuando la edad no se menciona."**
+
+<br>
+
+🧠 **Sobre el Proyecto**  
+Este proyecto busca de **predecir la edad aproximada de una persona a partir de una imagen** facial, utilizando redes neuronales convolucionales como **ResNet50**.   
+La arquitectura fue ajustada con **GridSearchCV para maximizar su precisión y estabilidad** durante el entrenamiento.  
+Desde la selección del modelo base hasta la **reducción del error a lo largo de múltiples épocas**, esta solución demuestra el **potencial de la visión artificial** aplicada a problemas reales de estimación.  
+
+🔍 **¿Por qué este proyecto?**  
+La estimación de edad tiene **aplicaciones relevantes en publicidad, control de acceso, personalización de contenido y más**. Este proyecto explora cómo extraer información significativa desde patrones visuales complejos y cómo optimizar un modelo profundo para lograr resultados sólidos con datos no estructurados.  
+
+⚙️ **Tecnologías Utilizadas** 
+- Lenguaje: Python
+- Bibliotecas: TensorFlow, PyTorch, Pandas
+- Arquitectura: ResNet50
+- Optimización: GridSearchCV
+- Métrica principal: Error Absoluto Medio (MAE)  
+
+📈 **Resultados clave** 
+- Error Absoluto Medio (MAE): 4.11
+- Reducción progresiva de pérdida por época
+- Modelo estable y generalizable ante distintas imágenes de entrada  
+
+🧩 **Reflexiones Finales** 
+Este proyecto consolidó mis habilidades en **redes neuronales profundas, gestión de pipelines de entrenamiento y evaluación de modelos en visión por computadora**. Aprendí a **ajustar hiperparámetros** con precisión y a **convertir imágenes en predicciones confiables con impacto práctico**.  
 
 
-
-
-
-
-🔹 Estimación de edad con redes neuronales – Optimización con GridSearchCV    
+📂 [Repositorio completo aquí](https://github.com/Richyar121292/Estimacion-de-edad-con-redes-neuronales)
+  
 
 
 <br>
