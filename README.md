@@ -86,7 +86,7 @@
 <h3 align="center">📂 Proyectos recientes</h3>
 <p align="center"></p>  
 
-📊  **Predicción de cancelación de clientes** – Modelo con AUC-ROC de 81%   
+- 📊  **Predicción de cancelación de clientes** – Modelo con AUC-ROC de 81%   
 
 **"Conocer a tu cliente no siempre es suficiente. Anticipar sus decisiones puede marcar la diferencia entre retenerlo o perderlo".**  
 <br>
