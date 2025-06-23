@@ -139,6 +139,12 @@ Desde la limpieza de datos hasta la evaluación con métricas de rendimiento, es
 - F1-score superior a 0.85
 - Alta capacidad para detectar reseñas negativas con estabilidad  
 
+
+🧩 **Reflexiones Finales**  
+Más allá del rendimiento del modelo, este proyecto consolidó habilidades esenciales en procesamiento de texto, evaluación de modelos supervisados y storytelling con datos.  
+También reafirmó que comprender cómo los usuarios se expresan puede ser más valioso que cualquier métrica numérica aislada.
+
+
 📂 [Repositorio completo aquí](https://github.com/Richyar121292/Categorizacion-de-opiniones)
 
 
