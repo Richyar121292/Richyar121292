@@ -14,7 +14,8 @@
 <br>
 <h3 align="center">🛠️ Habilidades </h3>
 <p align="center">
-🌐 Adaptabilidad | 🔍 Pensamiento crítico | 📊 Visualización de datos | 🗣️ Storytelling con datos | <br> 💬 Comunicación efectiva
+🌐 Adaptabilidad | 🔍 Pensamiento crítico | 📊 Visualización de datos | 🗣️ Storytelling con datos | <br>
+💬 Comunicación efectiva | 💼 Inglés | 📚 Francés
 </p>
 
 <table>
@@ -75,9 +76,9 @@
 - **[Contabilidad para no contadores II - Facultad de Contaduría y Administración, U.N.A.M, Cenapyme](https://www.unam.mx/)** ✅
 - **[Macros VBA con Excel - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)** ✅
 - **[Excel 2016 (Básico, Intermedio y Avanzado) - Aplicaciones Totales en Línea](https://www.aplicacionestotales.com/)** ✅
-- **Inglés (Avanzado)** 💼
+- **Inglés (Avanzado) TOEFL ITP** ✅
 
-- **Francés (Intermedio)** 📚
+- **Francés (Intermedio) Certificado de 351 horas** ✅
 
 
 
